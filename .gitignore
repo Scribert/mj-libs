@@ -1,7 +1,7 @@
-.vcxproj
-.vcxproj.user
-.vcxproj.filters
-.sln
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.sln
 
 ### C++ ###
 # Prerequisites
